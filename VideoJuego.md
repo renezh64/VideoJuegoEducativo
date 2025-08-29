@@ -6,7 +6,7 @@ Rene Zapata Hernández
 
 Juan Camilo Patiño Henao
 
-Jhon...
+Jhon Mario Herrera Olaya
 
 Yinet ...
 ## Tecnología En Desarrollo de Software, Faculta de Ingeniería y Ciencias Agropecuarias
@@ -17,7 +17,7 @@ Yinet ...
 
 **Docente:** Jorge Armando julio
 
-# 26 de Agosto de 2025
+# 31 de Agosto de 2025
 ---
 
 
