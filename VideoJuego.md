@@ -21,7 +21,7 @@
 
 ---
 ## Estimación de Tareas: Tabla con las tareas y sus puntuaciones asignadas mediante Poker Planning.
-
+![Estimación](imagenes/Estimacion.png)
 
 
 
