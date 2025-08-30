@@ -109,7 +109,7 @@ técnica):
 
 Figura 1. Gráfico de estimación.
 
-"parte a desarrollar por Juan Camilo "
+![Diagrama](imagenes/Diagrama.png)
 
 
 
