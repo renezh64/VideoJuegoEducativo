@@ -23,6 +23,10 @@
 ## Estimación de Tareas: Tabla con las tareas y sus puntuaciones asignadas mediante Poker Planning.
 
 
+![Estimación](imagenes/Estimacion.png)
+
+
+![Scrum Poker](imagenes/ScrumPoker.png)
 
 
 
@@ -109,7 +113,7 @@ técnica):
 
 Figura 1. Gráfico de estimación.
 
-"parte a desarrollar por Juan Camilo "
+![Diagrama](imagenes/Diagrama.png)
 
 
 
@@ -163,6 +167,6 @@ juego fluida y atractiva.
 
 
 
-
+![Reunión](imagenes/Reunion.png)
 ---
 ## Referencias: Fuentes consultadas (si aplica).
