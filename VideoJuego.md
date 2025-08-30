@@ -159,7 +159,9 @@ juego fluida y atractiva.
 
 -----
 ## Conclusiones: Reflexión sobre la actividad y el trabajo en equipo.
-"parte a desarrollar por yineth"
+GitHub transforma el desarrollo de software de una tarea individual a un proceso colectivo y transparente. 
+Su modelo de control de versiones distribuido con Git permite a los colaboradores trabajar en sus propias copias del proyecto,
+fusionando los cambios de forma segura y controlada. Esto evita conflictos y pérdidas de información, un problema común en métodos de colaboración más antiguos.
 
 
 
