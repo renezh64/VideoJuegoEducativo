@@ -33,23 +33,8 @@
 
 ## Lista de Prioridades: Orden de las tareas según su prioridad.
 
-crea la historia y el guiín del juego............> Alta
-diseña la interfaz de usuario ............> Alta
-Diseña los escenarios y mapas ............> Alta
-Implementa las animación de los personajes ............> Alta
 
-Diseñar los personajes principales y secundarios	............> Media
-Implementar el sistema de niveles de dificultad ............> Media
-Desarrollar el tutorial para nuevos jugadores ............> Media
-Implementar el sistema de guardado de progreso ............> Media
-Desarrollar el sistema de retroalimentación para los estudiantes ............> Media
-Crear el panel de control para profesores ............> Media
-
-Desarrollar el sistema de puntuación y recompensas  ............> Baja
-Crear los efectos de sonido y música ............> Baja
-Crear los minijuegos educativos ............> Baja
-Implementar el modo multijugador............> Baja
-Desarrollar el sistema de logros y medallas ............> Baja
+<img width="569" height="379" alt="image" src="https://github.com/user-attachments/assets/b0f775a0-0c50-4a9e-bc6a-55b3524303af" />
 
 ---
 
