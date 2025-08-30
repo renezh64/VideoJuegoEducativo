@@ -167,6 +167,6 @@ juego fluida y atractiva.
 
 
 
-
+![Reunión](imagenes/Reunion.png)
 ---
 ## Referencias: Fuentes consultadas (si aplica).
