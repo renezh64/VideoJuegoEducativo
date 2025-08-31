@@ -13,7 +13,7 @@
 
 ## Definición del Sprint: Explicación de la duración del sprint con su justificación.
 
-#Tareas - Tiempo - Justificacion#
+# Tareas - Tiempo - Justificacion #
 
 Diseñar los personajes principales y secundarios: 4 Dias : Leyendo la historia se sacarian los personajes y se harian las propuesdas de diseño, teniendo dibjados cuatro prpuestas y ssucaracteristicas de los personajes
 
