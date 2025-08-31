@@ -175,8 +175,12 @@ juego fluida y atractiva.
 
 
 
+
+
+
 ![Reunión](imagenes/Reunion.png)
 ---
 ## Referencias: Fuentes consultadas (si aplica).
+
 
 [Miro. (2025). The visual workspace for innovation.Recuperado de https://miro.com/]( https://miro.com/)
