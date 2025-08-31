@@ -48,11 +48,19 @@
 
 ## Desarrollo Colaborativo con Git: Explicación del proceso seguido en GitHub, incluyendo la creación de ramas y merge requests
 
-"parte a desarrollar por Juan Camilo "
+Para el desarrollo de este proyecto utilizamos **GitHub** como plataforma central de control de versiones y colaboración en equipo.
 
+**Creación del repositorio:** uno de los integrantes del equipo (René) fue el encargado de crear el repositorio en GitHub y configurar los accesos de los demás miembros.
 
+**Uso de ramas:** cada integrante creó su propia rama de trabajo a partir de la rama principal (main). De esta manera, se evitaban conflictos al momento de trabajar en paralelo y cada quien podía subir sus avances sin afectar el trabajo de los demás.
 
+**Subida de cambios:** cada integrante subió sus aportes directamente a su rama, manteniendo un historial de commits que reflejaba las modificaciones realizadas.
 
+**Merge requests (pull requests):** una vez finalizada la parte de cada integrante, se realizó el proceso de merge para integrar las ramas con la rama principal. Antes de hacer el merge se revisaban los cambios para asegurar coherencia en el proyecto y evitar errores.
+
+**Colaboración y control:** este proceso permitió trabajar de forma organizada, identificar rápidamente quién realizó cada aporte y resolver conflictos en caso de cambios simultáneos.
+
+En conclusión, GitHub nos permitió desarrollar el proyecto de manera colaborativa, garantizando orden, trazabilidad de los cambios y facilidad para unir los aportes individuales en un trabajo final unificado.
 ---
 
 ## Documento Game Design: Desarrollo del contenido requerido en el archivo "game-design.txt".
