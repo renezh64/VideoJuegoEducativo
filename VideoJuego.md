@@ -86,6 +86,8 @@ Para el desarrollo de este proyecto utilizamos **GitHub** como plataforma centra
 **Colaboración y control:** este proceso permitió trabajar de forma organizada, identificar rápidamente quién realizó cada aporte y resolver conflictos en caso de cambios simultáneos.
 
 En conclusión, GitHub nos permitió desarrollar el proyecto de manera colaborativa, garantizando orden, trazabilidad de los cambios y facilidad para unir los aportes individuales en un trabajo final unificado.
+
+
 ---
 
 ## Documento Game Design: Desarrollo del contenido requerido en el archivo "game-design.txt".
