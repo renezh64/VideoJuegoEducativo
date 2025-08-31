@@ -179,4 +179,4 @@ juego fluida y atractiva.
 ---
 ## Referencias: Fuentes consultadas (si aplica).
 
-[Miro. (2025). The visual workspace for innovation.Recuperado de]( https://miro.com/)
+[Miro. (2025). The visual workspace for innovation.Recuperado de https://miro.com/]( https://miro.com/)
