@@ -13,7 +13,22 @@
 
 ## Definición del Sprint: Explicación de la duración del sprint con su justificación.
 
-"parte a desarrollar por Rhene"
+Tareas - Tiempo - Justificacion
+Diseñar los personajes principales y secundarios: 4 Dias
+Crear la historia y el guión del juego: 8 Dias
+Desarrollar el sistema de puntuación y recompensas: 2 Dias
+Implementar el sistema de niveles de dificultad: 4 Dias
+Diseñar la interfaz de usuario: 15 Dias
+Crear los efectos de sonido y música: 5 Dias
+Desarrollar el tutorial para nuevos jugadores: 3 Dias
+Implementar el sistema de guardado de progreso: 3 Dias
+Crear los minijuegos educativos: 3 Dias
+Diseñar los escenarios y mapas: 30 Dias
+Desarrollar el sistema de retroalimentación para los estudiantes: 5 Dias
+Implementar el modo multijugador: 0 Dias
+Crear el panel de control para profesores: 15 Dias
+Desarrollar el sistema de logros y medallas: 5 Dias
+Implementar las animaciones de los personajes: 30 Dias
 
 
 
@@ -182,5 +197,9 @@ juego fluida y atractiva.
 ---
 ## Referencias: Fuentes consultadas (si aplica).
 
+Bibliográficas
+
+	        	CHRISTOPHER W. H. DAVIS, 2015, Agile Metrics in Action How to measure and improve team performance, Manning Publications Co. 270 Paginas, ISBN: 9781617292484
+ Project Management Institute, Inc., editor. 2017, La guía de los fundamentos para la dirección de proyectos (Guía del PMBOK), Project Management Institute, Inc., 762 paginas, ISBN: 978-1-62825-194-4
 
 [Miro. (2025). The visual workspace for innovation.Recuperado de https://miro.com/]( https://miro.com/)
