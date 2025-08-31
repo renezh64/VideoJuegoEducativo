@@ -210,9 +210,7 @@ juego fluida y atractiva.
 ---
 ## Referencias: Fuentes consultadas (si aplica).
 
-Bibliográficas
+	-)CHRISTOPHER W. H. DAVIS, 2015, Agile Metrics in Action How to measure and improve team performance, Manning Publications Co. 270 Paginas, ISBN: 9781617292484
+ 
+	-)Project Management Institute, Inc., editor. 2017, La guía de los fundamentos para la dirección de proyectos (Guía del PMBOK), Project Management Institute, Inc., 762 paginas, ISBN: 978-1-62825-194-4
 
-	        	CHRISTOPHER W. H. DAVIS, 2015, Agile Metrics in Action How to measure and improve team performance, Manning Publications Co. 270 Paginas, ISBN: 9781617292484
- Project Management Institute, Inc., editor. 2017, La guía de los fundamentos para la dirección de proyectos (Guía del PMBOK), Project Management Institute, Inc., 762 paginas, ISBN: 978-1-62825-194-4
-
-[Miro. (2025). The visual workspace for innovation.Recuperado de https://miro.com/]( https://miro.com/)
