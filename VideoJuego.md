@@ -14,21 +14,34 @@
 ## Definición del Sprint: Explicación de la duración del sprint con su justificación.
 
 Tareas - Tiempo - Justificacion
-Diseñar los personajes principales y secundarios: 4 Dias
-Crear la historia y el guión del juego: 8 Dias
-Desarrollar el sistema de puntuación y recompensas: 2 Dias
-Implementar el sistema de niveles de dificultad: 4 Dias
-Diseñar la interfaz de usuario: 15 Dias
-Crear los efectos de sonido y música: 5 Dias
-Desarrollar el tutorial para nuevos jugadores: 3 Dias
-Implementar el sistema de guardado de progreso: 3 Dias
-Crear los minijuegos educativos: 3 Dias
-Diseñar los escenarios y mapas: 30 Dias
-Desarrollar el sistema de retroalimentación para los estudiantes: 5 Dias
-Implementar el modo multijugador: 0 Dias
-Crear el panel de control para profesores: 15 Dias
-Desarrollar el sistema de logros y medallas: 5 Dias
-Implementar las animaciones de los personajes: 30 Dias
+Diseñar los personajes principales y secundarios: 4 Dias : Leyendo la historia se sacarian los personajes y se harian las propuesdas de diseño, teniendo dibjados cuatro prpuestas y ssucaracteristicas de los personajes
+
+Crear la historia y el guión del juego: 8 Dias: Se hace un documento donde se cuenta la historias de como el el juego de desiframiento de frases y operaciones del ejercito contrario, donde se mostraran personajes de diferentes niveles, lo stiempos y como se analizo la frace a descifrar.
+
+Desarrollar el sistema de puntuación y recompensas: 2 Dias: De hace un sitema de puntuacion desarrollado en base al tiempo de respuesta y los territorios ocupados del maña a medida que se decrifran fraces
+
+Implementar el sistema de niveles de dificultad: 4 Dias: Si pensaria los diferentes niveles y se pensaria los objetivos de cada nivel y que se busca, despue se harina los analisis y por ultimos las correciones a cada nivel en cuanto objetivo y diseño.
+
+Diseñar la interfaz de usuario: 15 Dias: Demoraria el doble de tiempo debido a escojer las diferentes interfaces mas la carga de un mapa de prueba con objeivos a partir del cual se desarrollaran los demas, mas las pruebas de trabajos de la intefaz
+
+Crear los efectos de sonido y música: 5 Dias: Se escojerias los diferentes sonidos y se integraria a la interfaz de usario
+
+Desarrollar el tutorial para nuevos jugadores: 3 Dias: ya despues de elaborado el proyecto se indicaria como usarlo
+
+Implementar el sistema de guardado de progreso: 3 Dias: Se estableceria el formato y variables que se necesitarias para evaluar el progreso por jugador y en que se va a guardar
+
+Crear los minijuegos educativos: 3 Dias: 1 dia para hacerlos junto con el tutoria y que pasara en cada nivel y dos corriguendo y aceptando subgerencias
+
+Diseñar los escenarios y mapas: 30 Dias: Se hacer los maspas y se integraria al mapa
+
+Desarrollar el sistema de retroalimentación para los estudiantes: 5 Dias: Se haria un herramienta que permita analizar los archivos guardados y los datos a enviar a un abase de datos para nalizar resultado
+
+Implementar el modo multijugador: 0 Dias: No aplica
+Crear el panel de control para profesores: 15 Dias: ya que dependeria de los datos enviasdo por cada jugador y le le peritira analisis y hacer estaditicas de todlos gugadore so por grupos.
+
+Desarrollar el sistema de logros y medallas: 5 Dias: ya que se diseña una recompensa incial, mas bonos estras segun el mapa y el diseño del juego.
+
+Implementar las animaciones de los personajes: 30 Dias: Ya que dependiendo de la cantidad de personaje sse haria una animacion basica mas los fondos y tambien se debe decidir de cuantas dimenciones se haran los personajes.
 
 
 
