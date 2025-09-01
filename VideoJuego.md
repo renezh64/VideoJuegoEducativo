@@ -157,45 +157,30 @@ Figura 1. Gráfico de estimación.
 ---
 
 Fuente. Construcción propia creado en www.miro.com
+
 3. Desarrollo Colaborativo con Git
 El delegado del equipo creará un repositorio llamado "videojuego-educativo" y
 dentro creará un archivo "game-design.txt" con el siguiente contenido:
 
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA]
-a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y
-personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
-juego está diseñado para combinar diversión y educación, permitiendo que los
-estudiantes adquieran conocimientos de manera natural mientras exploran,
-resuelven problemas y superan obstáculos.
+¡Gracias por compartir el texto, Jhon! Aquí tienes una propuesta completa para llenar los campos entre corchetes, manteniendo el tono educativo, estratégico y emocionante del videojuego **Batalla Mental**:
 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
+---
 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
+**Batalla Mental** es un videojuego educativo diseñado para enseñar a  combinar intuición, estrategia y pensamiento anticipado, lo que permitirá desarrollar habilidades cognitivas a los estudiantes de primaria, a través de una experiencia inmersiva y muy emocionante. 
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
-desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+La historia se desarrolla en medio de un campo de **Batalla Mental**, el cuál es un mundo lleno de misterios, desafíos y  personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los  estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
 
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de
+La protagonista de esta aventura es **Lia**, una **niña de cabello azul brillante, mirada curiosa y actitud valiente**. 
+Lia es una **estratega aprendiz** que ha sido elegida para una misión única: **descubrir y anticipar los planes secretos de sus oponentes para proteger el Reino del Saber**. Con su **habilidad para leer patrones y deducir intenciones**, Lia deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de **matemáticas y lógica**.
+
+El jugador podrá **analizar pistas y patrones de comportamiento**, para avanzar deberá **formular hipótesis y tomar decisiones estratégicas**, y los desafíos incluirán **resolución de acertijos, simulaciones de batalla y juegos de deducción**.
+
+Los estudiantes avanzarán mediante **un sistema de niveles con insignias de logro**. Cada nivel representa **un concepto educativo como secuencias, inferencias o razonamiento lógico**, y los jugadores recibirán retroalimentación inmediata sobre su  desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+
+Los jugadores aprenderán **el pensamiento anticipado** mediante **simulaciones interactivas**, se reforzará **la lógica matemática** a través de **minijuegos de patrones y secuencias**, y las evaluaciones se realizarán mediante  **retos adaptativos con retroalimentación automática**, lo que permitirá a los profesores y estudiantes medir el progreso de  
 manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
-juego fluida y atractiva.
-
-"parte a desarrollar por jhon herrera
-
-
-
+El juego se desarrollará usando **Unity 3D** y tendrá soporte para **Windows, Android y navegadores web**. Además, se implementarán características como  **modo multijugador local, accesibilidad para estudiantes con necesidades especiales y panel de seguimiento docente** para garantizar una experiencia de juego fluida y atractiva.
 
 -----
 ## Conclusiones: Reflexión sobre la actividad y el trabajo en equipo.
