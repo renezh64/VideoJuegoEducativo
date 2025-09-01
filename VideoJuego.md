@@ -166,7 +166,6 @@ Fuente. Construcción propia creado en www.miro.com
 El delegado del equipo creará un repositorio llamado "videojuego-educativo" y
 dentro creará un archivo "game-design.txt" con el siguiente contenido:
 
-¡Gracias por compartir el texto, Jhon! Aquí tienes una propuesta completa para llenar los campos entre corchetes, manteniendo el tono educativo, estratégico y emocionante del videojuego **Batalla Mental**:
 
 ---
 
