@@ -1,6 +1,10 @@
 ## Introducción
 
-"parte a desarrollar por Jhon Herrera"
+El presente documento expone el desarrollo colaborativo del proyecto ***Batalla Mental***, un videojuego educativo orientado a estudiantes de primaria, cuyo objetivo es fomentar el pensamiento estratégico, la anticipación y la resolución de problemas mediante una experiencia lúdica e inmersiva. Para su construcción, el equipo ha implementado metodologías ágiles, específicamente **Scrum**, con el fin de organizar el trabajo de manera iterativa, eficiente y centrada en el valor educativo del producto.
+
+A lo largo del proceso, se ha gestionado el proyecto utilizando **Git** como herramienta de control de versiones, lo que ha permitido una colaboración fluida entre los integrantes, facilitando la integración de tareas, el seguimiento de avances y la resolución de conflictos. La planificación se ha estructurado en **sprints**, definidos según los requerimientos del caso de estudio, y cada tarea ha sido estimada mediante la técnica de **Planning Poker**, utilizando una escala consensuada por el equipo.
+
+Este informe incluye la definición del sprint, la estimación de tareas, el gráfico de prioridades y la evidencia del trabajo colaborativo realizado en Git. El enfoque adoptado busca no solo cumplir con los objetivos técnicos del proyecto, sino también fortalecer las competencias de trabajo en equipo, comunicación efectiva y gestión ágil en entornos educativos y tecnológicos.
 
 
 
@@ -200,4 +204,6 @@ fusionando los cambios de forma segura y controlada. Esto evita conflictos y pé
 	-)CHRISTOPHER W. H. DAVIS, 2015, Agile Metrics in Action How to measure and improve team performance, Manning Publications Co. 270 Paginas, ISBN: 9781617292484
  
 	-)Project Management Institute, Inc., editor. 2017, La guía de los fundamentos para la dirección de proyectos (Guía del PMBOK), Project Management Institute, Inc., 762 paginas, ISBN: 978-1-62825-194-4
+
+ -)Project Management Institute, Inc., editor. 2017, La guía de los fundamentos para la dirección de proyectos (Guía del PMBOK), Project Management Institute, Inc., 762 paginas, ISBN: 978-1-62825-194-4
 
