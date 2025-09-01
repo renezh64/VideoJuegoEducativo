@@ -13,36 +13,37 @@
 
 ## Definición del Sprint: Explicación de la duración del sprint con su justificación.
 
-#Tareas - Tiempo - Justificacion#
+# Tareas - Tiempo - Justificacion #
 
-Diseñar los personajes principales y secundarios: 4 Dias : Leyendo la historia se sacarian los personajes y se harian las propuesdas de diseño, teniendo dibjados cuatro prpuestas y ssucaracteristicas de los personajes
+Diseñar los personajes principales y secundarios: 4 Días : Leyendo la historia se sacarían los personajes y se harian las propuestas de diseño, teniendo dibujados cuatro propuestas y sus características de los personajes
 
-Crear la historia y el guión del juego: 8 Dias: Se hace un documento donde se cuenta la historias de como el el juego de desiframiento de frases y operaciones del ejercito contrario, donde se mostraran personajes de diferentes niveles, lo stiempos y como se analizo la frace a descifrar.
+Crear la historia y el guión del juego: 8 Días: Se hace un documento donde se cuentan las historias de como el el juego de desciframiento de frases y operaciones del ejército contrario, donde se mostrarán personajes de diferentes niveles, los tiempos y como se analizó la frase a descifrar.
 
-Desarrollar el sistema de puntuación y recompensas: 2 Dias: De hace un sitema de puntuacion desarrollado en base al tiempo de respuesta y los territorios ocupados del maña a medida que se decrifran fraces
+Desarrollar el sistema de puntuación y recompensas: 2 Días: Se hace un sistema de puntuación desarrollado con base al tiempo de respuesta y los territorios ocupados, a medida que se descrifran frases
 
-Implementar el sistema de niveles de dificultad: 4 Dias: Si pensaria los diferentes niveles y se pensaria los objetivos de cada nivel y que se busca, despue se harina los analisis y por ultimos las correciones a cada nivel en cuanto objetivo y diseño.
+Implementar el sistema de niveles de dificultad: 4 Días: Se pensaría en los diferentes niveles y se pensaría en los objetivos de cada nivel y que se busca, después se harían los análisis y por último las correciones a cada nivel.
 
-Diseñar la interfaz de usuario: 15 Dias: Demoraria el doble de tiempo debido a escojer las diferentes interfaces mas la carga de un mapa de prueba con objeivos a partir del cual se desarrollaran los demas, mas las pruebas de trabajos de la intefaz
+Diseñar la interfaz de usuario: 15 Días: Demoraría el doble de tiempo debido a escoger las diferentes interfaces, mas la carga de un mapa de prueba con objetivos a partir del cual se desarrollarán los demás, mas las pruebas de trabajos de la intefaz
 
-Crear los efectos de sonido y música: 5 Dias: Se escojerias los diferentes sonidos y se integraria a la interfaz de usario
+Crear los efectos de sonido y música: 5 Días: Se seleccionarìan los diferentes sonidos y se integraría a la interfaz de usario
 
-Desarrollar el tutorial para nuevos jugadores: 3 Dias: ya despues de elaborado el proyecto se indicaria como usarlo
+Desarrollar el tutorial para nuevos jugadores: 3 Días: Ya después de elaborado el proyecto se indicaría como usarlo
 
-Implementar el sistema de guardado de progreso: 3 Dias: Se estableceria el formato y variables que se necesitarias para evaluar el progreso por jugador y en que se va a guardar
+Implementar el sistema de guardado de progreso: 3 Días: Se establecería el formato y variables que se necesitarían para evaluar el progreso por jugador y en que se va a guardar
 
-Crear los minijuegos educativos: 3 Dias: 1 dia para hacerlos junto con el tutoria y que pasara en cada nivel y dos corriguendo y aceptando subgerencias
+Crear los minijuegos educativos: 3 Días: 1 día para hacerlos junto con el tutorial, indicando que pasara en cada nivel y dos corrigiendo y aceptando sugerencias
 
-Diseñar los escenarios y mapas: 30 Dias: Se hacer los maspas y se integraria al mapa
+Diseñar los escenarios y mapas: 30 Días: Se hacen los mapas y se integraría al proyecto
 
-Desarrollar el sistema de retroalimentación para los estudiantes: 5 Dias: Se haria un herramienta que permita analizar los archivos guardados y los datos a enviar a un abase de datos para nalizar resultado
+Desarrollar el sistema de retroalimentación para los estudiantes: 5 Días: Se haria un herramienta que permita analizar los archivos guardados y los datos a enviar a una base de datos para analizar el resultado
 
 Implementar el modo multijugador: 0 Dias: No aplica
-Crear el panel de control para profesores: 15 Dias: ya que dependeria de los datos enviasdo por cada jugador y le le peritira analisis y hacer estaditicas de todlos gugadore so por grupos.
 
-Desarrollar el sistema de logros y medallas: 5 Dias: ya que se diseña una recompensa incial, mas bonos estras segun el mapa y el diseño del juego.
+Crear el panel de control para profesores: 15 Días: Ya que dependería de los datos enviados por cada jugador y le permitirá realizar análisis y hacer estadísticas de todos los jugadores o por grupos.
 
-Implementar las animaciones de los personajes: 30 Dias: Ya que dependiendo de la cantidad de personaje sse haria una animacion basica mas los fondos y tambien se debe decidir de cuantas dimenciones se haran los personajes.
+Desarrollar el sistema de logros y medallas: 5 Días: Ya que se diseña una recompensa inicial, mas bonos extras según el mapa y el diseño del juego.
+
+Implementar las animaciones de los personajes: 30 Días: Ya que dependiendo de la cantidad de personajes se haría una animacion básica mas los fondos y también se debe decidir de cuántas dimensiones se harán los personajes.
 
 
 
@@ -86,6 +87,8 @@ Para el desarrollo de este proyecto utilizamos **GitHub** como plataforma centra
 **Colaboración y control:** este proceso permitió trabajar de forma organizada, identificar rápidamente quién realizó cada aporte y resolver conflictos en caso de cambios simultáneos.
 
 En conclusión, GitHub nos permitió desarrollar el proyecto de manera colaborativa, garantizando orden, trazabilidad de los cambios y facilidad para unir los aportes individuales en un trabajo final unificado.
+
+
 ---
 
 ## Documento Game Design: Desarrollo del contenido requerido en el archivo "game-design.txt".
@@ -154,45 +157,30 @@ Figura 1. Gráfico de estimación.
 ---
 
 Fuente. Construcción propia creado en www.miro.com
+
 3. Desarrollo Colaborativo con Git
 El delegado del equipo creará un repositorio llamado "videojuego-educativo" y
 dentro creará un archivo "game-design.txt" con el siguiente contenido:
 
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA]
-a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y
-personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
-juego está diseñado para combinar diversión y educación, permitiendo que los
-estudiantes adquieran conocimientos de manera natural mientras exploran,
-resuelven problemas y superan obstáculos.
+¡Gracias por compartir el texto, Jhon! Aquí tienes una propuesta completa para llenar los campos entre corchetes, manteniendo el tono educativo, estratégico y emocionante del videojuego **Batalla Mental**:
 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
+---
 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
+**Batalla Mental** es un videojuego educativo diseñado para enseñar a  combinar intuición, estrategia y pensamiento anticipado, lo que permitirá desarrollar habilidades cognitivas a los estudiantes de primaria, a través de una experiencia inmersiva y muy emocionante. 
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
-desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+La historia se desarrolla en medio de un campo de **Batalla Mental**, el cuál es un mundo lleno de misterios, desafíos y  personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los  estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
 
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de
+La protagonista de esta aventura es **Lia**, una **niña de cabello azul brillante, mirada curiosa y actitud valiente**. 
+Lia es una **estratega aprendiz** que ha sido elegida para una misión única: **descubrir y anticipar los planes secretos de sus oponentes para proteger el Reino del Saber**. Con su **habilidad para leer patrones y deducir intenciones**, Lia deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de **matemáticas y lógica**.
+
+El jugador podrá **analizar pistas y patrones de comportamiento**, para avanzar deberá **formular hipótesis y tomar decisiones estratégicas**, y los desafíos incluirán **resolución de acertijos, simulaciones de batalla y juegos de deducción**.
+
+Los estudiantes avanzarán mediante **un sistema de niveles con insignias de logro**. Cada nivel representa **un concepto educativo como secuencias, inferencias o razonamiento lógico**, y los jugadores recibirán retroalimentación inmediata sobre su  desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+
+Los jugadores aprenderán **el pensamiento anticipado** mediante **simulaciones interactivas**, se reforzará **la lógica matemática** a través de **minijuegos de patrones y secuencias**, y las evaluaciones se realizarán mediante  **retos adaptativos con retroalimentación automática**, lo que permitirá a los profesores y estudiantes medir el progreso de  
 manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
-juego fluida y atractiva.
-
-"parte a desarrollar por jhon herrera
-
-
-
+El juego se desarrollará usando **Unity 3D** y tendrá soporte para **Windows, Android y navegadores web**. Además, se implementarán características como  **modo multijugador local, accesibilidad para estudiantes con necesidades especiales y panel de seguimiento docente** para garantizar una experiencia de juego fluida y atractiva.
 
 -----
 ## Conclusiones: Reflexión sobre la actividad y el trabajo en equipo.
